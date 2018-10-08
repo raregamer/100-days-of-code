@@ -19,12 +19,12 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: October 08, Monday 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Took a refresher in git. Worked on...
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I have been coding for a year and a half, but something still fills missing. I started 100 days of code to be my sort of pseudo blog to look back on. I hope the anxious feelings of my future subsides.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to some of the work I been working on previously and continue to work on**
+1. [GitHub](https://github.com/raregamer)
+2. [CodePen]https://codepen.io/raregamer/)
