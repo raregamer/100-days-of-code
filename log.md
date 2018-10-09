@@ -20,11 +20,11 @@
 
 
 ### Day 1: October 08, Monday 2018
-
-**Today's Progress**: Took a refresher in git. Worked on...
-
-**Thoughts** I have been coding for a year and a half, but something still fills missing. I started 100 days of code to be my sort of pseudo blog to look back on. I hope the anxious feelings of my future subsides.
+**Today's Progress**: Took a refresher in git so I can push this very fork. Worked on my school coding homework (A product calculator), which I did in Java. Lastly got my WordPress Blog up and running.  
+**Thoughts** I have been coding for a year and a half, but something still fills missing. I started 100 days of code to be my sort of pseudo blog to look back on. I hope these anxious feelings of my future subsides. My homework took about 2 hours to complete for the pseudo code and writing Java code, is that normal? I am always wondering if I am being efficient. It has been a little while since I wrote Java code so had to refresh my memory a little on that as well. 
 
 **Link(s) to some of the work I been working on previously and continue to work on**
-1. [GitHub](https://github.com/raregamer)
-2. [CodePen]https://codepen.io/raregamer/)
+1. [GitHub] - https://github.com/raregamer
+2. [CodePen] - https://codepen.io/raregamer/
+3. [MyWebsite] - SamuelElbaz.com
+
