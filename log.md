@@ -27,3 +27,18 @@
 **Thoughts** I am purposely taking my time on html and css. All my responsive page projects on Free Code Camp are done, but I don’t quite want to move ahead yet. I Started a new website project (a movie fan page). Thinking about when I want to start using and learning JavaScript again. I just don’t want to rush anything. I am really taking my time and trying to slow my brain down. I also started writing extra detailed pseudo code to help me think through things before I jump into coding (Mainly on my java school work). I wish I knew what “job ready” really means. Will I ever not feel nervous before I start a project? I always think I am doing it wrong, I keep doubting everything wondering if I am using the best practices. I just don’t want to make bad habits. I wonder if it’s normal if I am always nervous before I put a div down, or maybe it should be a span, maybe it doesn’t need either?!?:/(confusion I call this). I think I will start responsive layouts team tree house, tomorrow.
 
 
+### Day 4: October 11, Thursday 2018
+
+**Today's Progress**: I Worked on my new movie fan page, lots of hours trying to center an image with the nav bar text to be centered (without flex or grid), is this normal?.
+
+**Thoughts** It was a really tough day. I thought I knew enough to control my css positioning elements, but I just couldn’t get the nav bar and logo image aligned correctly on a header. I tried many different solutions, but nothing was working properly. It was a very discouraging day honestly. I keep getting stuck in positioning things with css and also being responsive. So instead of moving on today I continued my work with positioning. I am continuing to keep working on it until I really can get things working to have the most responsive layouts, with the most basic css code. I could of used flex, but I really wanted to solve it a different way.  I want to truly understand why and when positions work the way that they do, and fully be able to explain it well to others. For now I ended up just using absolute positioning, I am sure there is probably a better way to do it. I think it has something to do with vertical align middle, but it just wasn’t working for me. Feel free to take a look at the code below and find a better solution without flexbox or grids.     
+
+**Link(s)
+
+   [Absolute solution] https://jsfiddle.net/raregamer/p0y4gru1/31/
+
+   [Flex solution(with some help from discord)] https://jsfiddle.net/raregamer/p0y4gru1/30/
+
+   [Discord alternative solution] http://jsfiddle.net/raregamer/gvou8ks0/
+
+
