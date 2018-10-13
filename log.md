@@ -42,3 +42,16 @@
    [Discord alternative solution] http://jsfiddle.net/raregamer/gvou8ks0/
 
 
+### Day 5: October 12, Friday 2018
+**Today’s Progress**: I Worked on my movie fan page some more(sneak peak image on blog). Worked on making a footer stick to the bottom of the screen mainly today.
+**Thoughts** It was a little of a battle getting the footer to stick to the bottom of the page properly, without being fixed all the time. The article below helped me out to understand better. I did handle the battle today, better then yesterday. I contribute that to wanting to cook for the Sabbath. I will tweak more of this fan site design, and decide if I want to go into JavaScript yet. I might do one or two more html/css projects. While writing this I do think I might just stick with another week of just html/css properties. I do believe I am getting familiar with it and I want to keep it that way. 
+**Link(s)
+[Footer Article] https://matthewjamestaylor.com/bottom-footer
+[My Blog] http://www.samuelelbaz.com
+
+
+
+
+
+
+
