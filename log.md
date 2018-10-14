@@ -50,6 +50,13 @@
 [My Blog] http://www.samuelelbaz.com
 
 
+### Day 6: October 13, Saturday 2018
+
+**Today’s Progress**: Today I worked mainly on my coding HW(I paid extra attention to my pseudo code). I also went to a coding meetup. Maybe got 30 min of CSS done as well.  
+
+**Thoughts** I felt good about going to the meetup today. Seeing peoples work and just being around like minded people is really helpful mentally.  I am super happy to also say goodbye to the Raptor program school was having us use to code, and we can start using Python.  Today I also was reminiscing and sad that I kind of gave up on my Android development, months ago in favor of web development, being the probability of an entry level job is more likely with web development. **I wonder if I should try to code a small project in it again? Hmm I might have to let this one go for now and not take on any more things though. ** Time to start Python coding.
+
+
 
 
 
