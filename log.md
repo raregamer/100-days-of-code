@@ -56,6 +56,20 @@
 
 **Thoughts** I felt good about going to the meetup today. Seeing peoples work and just being around like minded people is really helpful mentally.  I am super happy to also say goodbye to the Raptor program school was having us use to code, and we can start using Python.  Today I also was reminiscing and sad that I kind of gave up on my Android development, months ago in favor of web development, being the probability of an entry level job is more likely with web development. **I wonder if I should try to code a small project in it again? Hmm I might have to let this one go for now and not take on any more things though. ** Time to start Python coding.
 
+### Day 7: October 14, Sunday 2018
+**Today’s Progress**: Today I put a lot of hours into more CSS positioning which was a failure, although I don’t say this ever a “successful failure”. I still think I might just stick with CSS for a week more before I move on to new things, other than school Python work.
+**Thoughts** I got to have some good conversations on Discord about some absolute positioning rules, and other little bits of information in the coding world.  It was good to see I am not the only one taking 4 hours to figure out how to make a certain positioning work even for professionals. We pretty much came to a result of absolute positioning is just not going to work in some type of container to center it, without manually setting margins or widths. Especially to be responsive as well.  You can see my “absolute failure” NOT centered in the black below. I do think I got a way better idea of absolute positioning and its limitations. There is still much to learn on it, but I think I will move on from trying to force it to center 8 absolute items in a wrapper and thinking it will come out pretty. 
+
+**Link(s)
+[Picture on site] https://samuelelbaz.wordpress.com/2018/10/15/day-7-100daysofcode/
+
+
+
+
+
+
+
+
 
 
 
