@@ -64,6 +64,22 @@
 [Picture on site] https://samuelelbaz.wordpress.com/2018/10/15/day-7-100daysofcode/
 
 
+### Day 8: October 15, Monday 2018
+**Today’s Progress**: Today was all about making a new page layout. I wanted to use only floats to make the grid. Thankfully it actually did work. I was also able to make it responsive with flex fairly simply (for a change)!
+**Thoughts**  Today was a nice change, being I was able to implement a grid way easier than I thought it would be, using only floats. I had a couple of small issues (Which is totally normal and expected), but I was able to fix them pretty easily by myself. I thought I was going to just cave in and end up using a css grid, since I had so much trouble with the banner (on the American Pie home page) with absolute values. Though the floats worked the way I expected them to, getting centered and being responsive with flex. On a side note my regards to Paul Allen today. It is always sad to hear about and see the people that inspired me and gave me a sense of curiosity to do more pass away.  
+
+**Links:
+[Picture on site] https://samuelelbaz.wordpress.com/2018/10/16/day-8-100daysofcode
+
+
+
+
+
+
+
+
+
+
 
 
 
