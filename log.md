@@ -71,6 +71,13 @@
 **Links:
 [Picture on site] https://samuelelbaz.wordpress.com/2018/10/16/day-8-100daysofcode
 
+### Day 9: October 16, Tuesday 2018
+**Today’s Progress**: Today I worked on making my movie trailer page, which worked out well. I also started to introduce myself to Python and in school we started using and coding with it as well. I do prefer Java as of now, since that is what I originally learned how to code with.
+**Thoughts** Today was pretty basic as far as things, watched the Derek Bananas video for Python. I worked on my American Pie movie trailer page. Not too much to report I wish I would have coded more today, but I had a lot of extra things to do today and I think I need some goodnight sleep. 
+
+
+
+
 
 
 
