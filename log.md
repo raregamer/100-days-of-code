@@ -75,6 +75,15 @@
 **Today’s Progress**: Today I worked on making my movie trailer page, which worked out well. I also started to introduce myself to Python and in school we started using and coding with it as well. I do prefer Java as of now, since that is what I originally learned how to code with.
 **Thoughts** Today was pretty basic as far as things, watched the Derek Bananas video for Python. I worked on my American Pie movie trailer page. Not too much to report I wish I would have coded more today, but I had a lot of extra things to do today and I think I need some goodnight sleep. 
 
+### Day 10: October 17, Wednesday 2018
+
+**Today’s Progress**:
+
+Really tough, python killed me, really my hw more so. Python just is weird the way they don’t have brackets. I spent 4 hours somehow on making a, which number is bigger (more info below).
+
+**Thoughts**
+
+How do you get better at pseudo code? It’s really killing me. I didn't realize how bad I thought in programming terms, until I started my college class. I can't seem to write proper pseudo code. The only way I know how to code is by coding, then whatever is broken fix it. I just somehow spent 4 hours on making a which number is bigger between 3 numbers, in python in various ways, because I never thought of the possibility of 2 of the 3 numbers being equal and 1 being greater or less than. I might understand programming, but I don't think like a programmer yet.
 
 
 
