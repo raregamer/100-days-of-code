@@ -86,6 +86,15 @@ Really tough, python killed me, really my hw more so. Python just is weird the w
 How do you get better at pseudo code? It’s really killing me. I didn't realize how bad I thought in programming terms, until I started my college class. I can't seem to write proper pseudo code. The only way I know how to code is by coding, then whatever is broken fix it. I just somehow spent 4 hours on making a which number is bigger between 3 numbers, in python in various ways, because I never thought of the possibility of 2 of the 3 numbers being equal and 1 being greater or less than. I might understand programming, but I don't think like a programmer yet.
 
 
+### Day 11: October 18, Thursday 2018
+**Today’s Progress**:
+	I took kind of a chill day today, since yesterday hurt so much. I did some python coding homework. I also finished some loose ends on my #freecodecamp curriculum to get my Responsive Web Design Certification. 
+
+**Thoughts** 
+	Thankfully my python homework didn’t hurt me today, but I definitely felt a lot of “Imposter Syndrome” I worked on the accessibility track on free code camp to finish out my Responsive Web Design certification. I for some reason just kind of skipped over it originally, so it has been on my to do list. Today was the perfect day for that because I wanted to work on some css and be directed with simple instructions.  
+
+
+
 
 
 
