@@ -93,6 +93,18 @@ How do you get better at pseudo code? It’s really killing me. I didn't realize
 **Thoughts** 
 	Thankfully my python homework didn’t hurt me today, but I definitely felt a lot of “Imposter Syndrome” I worked on the accessibility track on free code camp to finish out my Responsive Web Design certification. I for some reason just kind of skipped over it originally, so it has been on my to do list. Today was the perfect day for that because I wanted to work on some css and be directed with simple instructions.  
 
+### Day 12: October 19, Friday 2018
+
+**Today’s Progress**:
+
+I worked on my Python homework for about an hour and half. Python has not been fun to learn after learning Java. I didn’t have as much time today to code as I would’ve liked.
+
+ 
+
+**Thoughts**
+
+Python is getting to be a little strange. I am not sure I like how I declare variables. It is kind of like JavaScript to me. I had a lot of trouble today with checking if a value is an int and I am still working on understanding it.
+
 
 
 
