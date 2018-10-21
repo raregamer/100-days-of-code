@@ -105,7 +105,17 @@ I worked on my Python homework for about an hour and half. Python has not been f
 
 Python is getting to be a little strange. I am not sure I like how I declare variables. It is kind of like JavaScript to me. I had a lot of trouble today with checking if a value is an int and I am still working on understanding it.
 
+### Day 13: October 20, Saturday 2018
 
+**Today’s Progress**:
+
+            Started some more CSS responsive design with Team Tree House. Worked on finishing my Python homework.   
+
+
+
+**Thoughts**
+
+            I learned Python really likes try blocks for data type verification of user inputs. I spend 4 hours on a homework that I could of finished in 10 minutes if I didn't overthink the question/problem. I need to stop over thinking things which seems to be a constant in every aspect of my life. I have so much to learn, yet I always feel like the door is closing.
 
 
 
