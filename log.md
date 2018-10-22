@@ -117,6 +117,20 @@ Python is getting to be a little strange. I am not sure I like how I declare var
 
             I learned Python really likes try blocks for data type verification of user inputs. I spend 4 hours on a homework that I could of finished in 10 minutes if I didn't overthink the question/problem. I need to stop over thinking things which seems to be a constant in every aspect of my life. I have so much to learn, yet I always feel like the door is closing.
 
+### Day 14: October 21, Sunday 2018
+
+**Today’s Progress**:
+
+            It was hard getting to code today, I was busy up until 10pm. I just got an hour in, I didn’t have a plan since I was so tired. I tried to make a quick layout in CSS mimicking a magazine layout article.    
+
+
+
+**Thoughts**
+
+            I did get my code to work in that short time and replicate the first section of the magazine I was trying to replicate, but boy was/is it messy. It was also not as simple as I thought in my mind.  I will continue on with this idea in the future of using magazine layouts as inspiration.  Why won’t coding sink in better???
+
+
+
 
 
 
