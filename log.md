@@ -131,7 +131,22 @@ Python is getting to be a little strange. I am not sure I like how I declare var
 
 
 
+### Day 15: October 22, Monday 2018
 
+**Today’s Progress**:
+
+            I went through and practiced responsive design more. Went through the Team Tree House responsive course, and re-wrote/made comments/studied all of their html and CSS code structure to get a better understanding of how they lay it all out.
+
+**Thoughts**
+
+            Practiced, read more code, practiced more code. Just code, code, code. I am hoping I am studying the right way. Tomorrow I am going to go over flexbox again.  I realized Team Tree House relies a bit more on normalize css then I thought, for some basic padding stuff. Overall it was nice to see how they go about it.   
+
+**P.S.**
+
+I assure you that footer works correctly and doesn't float the way it does in the image.
+
+**Link(s)
+[Picture on site] https://samuelelbaz.wordpress.com/2018/10/23/day-15-100daysofcode/ 
 
 
 
