@@ -149,6 +149,20 @@ I assure you that footer works correctly and doesn't float the way it does in th
 [Picture on site] https://samuelelbaz.wordpress.com/2018/10/23/day-15-100daysofcode/ 
 
 
+### Day 16: October 23, Tuesday 2018
+**Today’s Progress**:
+	Today I worked on CSS flexbox and Python challenges. I decided to go through the PracticePython.org exercises, I will try to do one a day depending on how involved each one might be.
+
+**Thoughts** 
+	I am considering doing a one off day, just to go through and peek back at Android Studios and see what I can refresh my brain in. I wonder how much I retained since the last time I even opened it. I am hoping by the end of the week to have done that. I am not sure how bad it is to keep switching between so many languages. Oh well, they all at least having coding in common :).
+**Link(s)
+[Python Exercises] https://www.practicepython.org/
+
+
+
+
+
+
 
 
 
