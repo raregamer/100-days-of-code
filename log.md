@@ -158,6 +158,17 @@ I assure you that footer works correctly and doesn't float the way it does in th
 **Link(s)
 [Python Exercises] https://www.practicepython.org/
 
+### Day 17: October 24, Wednesday 2018
+**Today’s Progress**:
+	Today was pretty straight forward, I worked on CSS flexbox and Python challenge 2 from #practicepython.org
+
+**Thoughts** 
+	Today’s coding was pretty simple, since I was really familiar with most of the concepts prior to today. I did get a better understanding on the flexbox grow and basis properties which was nice. 
+**Link(s)
+[Python Exercises] https://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html
+
+
+
 
 
 
