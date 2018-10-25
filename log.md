@@ -167,6 +167,20 @@ I assure you that footer works correctly and doesn't float the way it does in th
 **Link(s)
 [Python Exercises] https://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html
 
+### Day 18: October 25, Thursday 2018
+
+**Today’s Progress**:
+
+Today was straight forward, I finished the TeamTreeHouse CSS flexbox course and Python challenge 3 from #practicepython.
+
+**Thoughts**
+
+Today’s coding was pretty much the same as yesterday, more flexbox and a Python challenge. I finished all things flexbox on teamtreehouse and everywhere else at this point. So I really hope I understand it well.
+
+**Link(s)
+
+[Python Exercises] https://www.practicepython.org/exercise/2014/02/15/03-list-less-than-ten.html
+
 
 
 
