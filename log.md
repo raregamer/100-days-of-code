@@ -182,6 +182,28 @@ Today’s coding was pretty much the same as yesterday, more flexbox and a Pytho
 [Python Exercises] https://www.practicepython.org/exercise/2014/02/15/03-list-less-than-ten.html
 
 
+### Day 19: October 26, Friday 2018
+**Today’s Progress**:
+	Today I worked on some HTML/CSS Forms. I also had to skip my Python challenge, in favor/priority of Python school homework. 
+
+**Thoughts** 
+	Today was all good, I reviewed form properties in HTML and CSS. In Python I had to hold off on practicepython.org, while I did Python school work. Which might take up the next couple days. Overall I got at least an hour in, but I wish I had more time. Fridays are usually the toughest days to get code time in. 
+
+
+
+### Day 20: October 27, Saturday 2018
+**Today’s Progress**:
+	Today I finished the #TeamTreeHouse forms track. Today's thoughts on my site have way more info, if you want more of a write up :).
+
+**Thoughts** 
+	 Today I finished the Team Tree House forms track. I will continue to work with forms with my next step being using a back-end to actually send the information in the form to a server using Python. I didn’t do any Python coding today as of this writing sadly, but will do it again tomorrow or later in the night if I am up for it. I am starting to feel somewhat of a burnout to try and fit as much code as possible in a day. I have been hitting more than an hour of code a day, but sometime in a flow I don’t want to just switch, even though there is so much I want to get to. I do also need breaks and downtime as well, family time and normal human maintenance time. Anyhow #movingforward.
+
+
+
+
+
+
+
 
 
 
