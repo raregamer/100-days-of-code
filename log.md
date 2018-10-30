@@ -199,10 +199,26 @@ Today’s coding was pretty much the same as yesterday, more flexbox and a Pytho
 	 Today I finished the Team Tree House forms track. I will continue to work with forms with my next step being using a back-end to actually send the information in the form to a server using Python. I didn’t do any Python coding today as of this writing sadly, but will do it again tomorrow or later in the night if I am up for it. I am starting to feel somewhat of a burnout to try and fit as much code as possible in a day. I have been hitting more than an hour of code a day, but sometime in a flow I don’t want to just switch, even though there is so much I want to get to. I do also need breaks and downtime as well, family time and normal human maintenance time. Anyhow #movingforward.
 
 
+### Day 21: October 28, Sunday 2018
+**Today’s Progress**:
+	Today I did 2 Python exercises from practicepython.org. I am struggling so much internally, #impostorsyndrome is possibly taking over me or coding is just getting really hard. 
+
+**Thoughts** 
+	Today was really hard for me to keep motivated to code, but I forced myself through it. I am hoping tomorrow goes better. I am going to start working on JavaScript again tomorrow. I hope to get more confidence in my coding. I believe internally I am struggling most with impostor syndrome and a lack of guidance right now of what I am really working towards or the technologies I need to accomplish it I want to do. I hope that in the future I can get this worked out and have some clarity. On a side note the link below is to a forum post, which was reminding me just how hard even when you have a lot of progress/work under your belt how hard getting a job later on can be. 
+**Link(s)
+https://www.freecodecamp.org/forum/t/10-months-of-applying-no-luck-trying-to-get-1st-dev-job/235227/35
 
 
 
+### Day 22: October 29, Monday 2018
+**Today’s Progress**:
+	Today I started JavaScript again, on #FreeCodeCamp, I also did my practice Python exercise 6. 
 
+**Thoughts** 
+	Really today was mainly getting reacquainted with the JavaScript syntax. I also did the practicepython.org exercise 6. I really hope in the near future to get real life experience in coding. Everything I do is all “fun and games”, but never seems practical in a work environment. I could be wrong since I haven’t been in one yet though. 
+
+**Link(s)
+[practicepython.org exercise 6] https://www.practicepython.org/exercise/2014/03/12/06-string-lists.html
 
 
 
