@@ -222,6 +222,26 @@ https://www.freecodecamp.org/forum/t/10-months-of-applying-no-luck-trying-to-get
 
 
 
+### Day 23: October 30, Tuesday 2018
+**Today’s Progress**:
+            Worked through more of the JavaScript section on #FreeCodeCamp. I also did my practice Python exercise 7.
+**Thoughts**
+            My Python exercise was funny, I guess I should read more carefully. When it says “write the even elements in one line”, don’t be me :) and write:
+a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+##get the even indices :)
+evenList = a[::2]
+print(evenList)
+ 
+Instead write:
+evenList = [x for x in a if x % 2 == 0].
+ 
+Free Code Camp JavaScript was straight forward.  I am sure I will be doing more coding later at school tonight, but I am getting this write up out of the way since tonight I am going to the Mike Shinoda concert!
+**Link(s)
+[practicepython.org exercise 7] https://www.practicepython.org/exercise/2014/03/19/07-list-comprehensions.html
+
+
+
+
 
 
 
