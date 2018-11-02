@@ -242,11 +242,30 @@ Free Code Camp JavaScript was straight forward.  I am sure I will be doing more 
 
 
 
+### Day 24: October 31, Wednesday 2018
+
+**Today’s Progress**:
+
+Worked through more of the JavaScript section on #FreeCodeCamp. I am almost complete with it, should be done tomorrow with it and moving onto es6. I was a little under the weather, so it was hard getting anything done.
+
+**Thoughts**
+
+Today I am feeling pretty sick so I got some JavaScript in, but tomorrow hoping to be better to have more progress.
 
 
 
 
+### Day 25: Nov 01, Thursday 2018
 
+**Today’s Progress**:
+
+            Today I went through Objects in JavaScript. I am about done on the JavaScript portion on #FCC. I could have done more, but I wanted to sit with some of the concepts a little more, before moving on. Fast isn’t always best, I learnt the hard way.
+
+**Thoughts**
+
+            I thought I would have been done today, on the JavaScript portion of Free Code Camp, but I couldn’t get to it all. I can say with confidence tomorrow “it’s going down”. I am sad I haven’t done Python for two days in a row. It’s really hard getting to everything I want to get to and still have some down time. Today thankfully, I was feeling better from being sick yesterday, I should be fully recovered tomorrow.
+
+I touched a little on JSON, going through properties and pulling them out. I want to get more confident in manipulating JSON data. Something about it always gives me a nervous feeling. It just gets so messy in the nest.
 
 
 
