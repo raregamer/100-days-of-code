@@ -268,6 +268,38 @@ Today I am feeling pretty sick so I got some JavaScript in, but tomorrow hoping 
 I touched a little on JSON, going through properties and pulling them out. I want to get more confident in manipulating JSON data. Something about it always gives me a nervous feeling. It just gets so messy in the nest.
 
 
+### Day 26: Nov 02, Friday 2018
+
+**Today’s Progress**:
+
+Today I finished up the JavaScript section of #FreeCodeCamp , It took way longer then I wanted, and I struggled on certain challenges, but it’s all done now : ). Now it’s time to reinforce it and move on.
+
+**Thoughts**
+
+The JavaScript JSON challenges broke me a little today, I spent close to 2 hours on  the “Record Collection Challenge” and the “Profile Lookup”. They aren’t even hard questions, but I just get lost in either not having the correct syntax, to pull the data I want, or I am overlooking a simple statement, that was just placed too early in the code block. The latter hurts me the most, because it continues to show when I am coding I am not following my own written program correctly in my head, which I work so hard on and struggle with constantly.
+
+**Links**
+
+[Record Collection Challenge]: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection/
+
+[Profile Lookup]:  https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup/
+
+
+
+### Day 27: Nov 03, Saturday 2018
+
+**Today’s Progress**:
+
+            Today I worked on my Python homework and I started to go over JavaScript concepts on #TeamTreeHouse.   
+
+**Thoughts**
+
+            Today, not too much to report, it was pretty much do a Python homework that added books over a period of days, that a user entered. In JavaScript, I did the Team Tree House lessons that went over JavaScript concepts using a small in browser game framework called Phaser. I did think it was a really cool way to introduce JavaScript or programming to anyone who would be starting out. It peaked my interest on the Phaser framework and I would love to use it in my own project in the future.      
+
+**Links**
+
+[Phaser Framework]: https://phaser.io/
+
 
 
 
