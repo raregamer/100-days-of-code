@@ -301,17 +301,24 @@ The JavaScript JSON challenges broke me a little today, I spent close to 2 hours
 [Phaser Framework]: https://phaser.io/
 
 ### Day 28: Nov 04, Sunday 2018
+
 **Today’s Progress**:
             I had a coding exam today which took 2 hours, I didn’t even get through it all. I also did about 30 min on #TeamTreeHouse on while loops. I believe I am in a loop. #TodayWasHard, tons of info on my blog. 
+
+
 **Thoughts**
             Today my exam in the morning took so much energy out of me. I thought I would be able to breeze through it, but at a point the questions became more complex and my mind became foggy, I couldn’t think clearly. I couldn’t break down questions that are actually simple. I do tend to work slowly when it comes to breaking down a question and understanding it. So when I have to read and decipher a lot of different programs/questions at once I get burnt out. So when a question gets more complex with more things to keep track of I start getting lost in the echo. 
+
 I don’t know if I should blame myself or the fact that something about coding questions make me super unsure of myself. They are written terribly always no matter what website, class, book anything trying to teach you coding. It could’ve been because there was a 2 hour time limit, which seemed like a short time for writing 7-10 pseudo program codes and some multiple choice questions(maybe the time pressure was the point and you weren’t really supposed to get to the end). So at a certain point I was running out of time and the questions seemed like they weren’t making sense anymore and causing me to panic. I am probably just making excuses. 
+
 Either way I felt like shit after the test, mainly because the test covered everything from variables to arrays things I went over thousands of times in the year and a half I’ve been learning to code. It brought me to my knees and made me feel like I should quit and brought in the dreaded thought” I just am not smart enough” for coding. 
+
 Later in the day after a long day of other activities and time to unwind.  I forced myself to work on Team Tree House just to get some lighter hearted coding practice in. I am starting to wonder if I am just scared to move past the beginner stage of coding amongst other things and I keep putting myself in an infinite loop or it’s the time to say this isn’t for you. 
 
 
 
 ### Day 29: Nov 05, Monday 2018
+
 **Today’s Progress**:
             Today I finished up the loops section of the Team Tree House course. Tomorrow I will go over arrays.  No Python today. 
 
