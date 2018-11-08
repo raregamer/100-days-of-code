@@ -326,7 +326,20 @@ Later in the day after a long day of other activities and time to unwind.  I for
             I don’t have much too say, I am just plugging away coding chip by chip, and moving forward. 
 
 
+### Day 30: Nov 06, Tuesday 2018
+**Today’s Progress**:
+            Today I worked on Arrays, Functions and more Loops with Team Tree House and in school. 
+**Thoughts**
+         I am emotionally drained and tired, getting bored of looking at the same type of fundamentals of coding. I need to breakaway and move forward from this step. 
 
+
+
+
+### Day 31: Nov 07, Wednesday 2018
+**Today’s Progress**:
+            Got food poisoning, but got coding in before that. I worked on Python Try/Catch Blocks and arrays. 
+**Thoughts**
+         I can’t remember since I am writing this a day later. 
 
 
 
