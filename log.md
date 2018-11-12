@@ -333,17 +333,44 @@ Later in the day after a long day of other activities and time to unwind.  I for
          I am emotionally drained and tired, getting bored of looking at the same type of fundamentals of coding. I need to breakaway and move forward from this step. 
 
 
-
-
 ### Day 31: Nov 07, Wednesday 2018
 **Today’s Progress**:
-            Got food poisoning, but got coding in before that. I worked on Python Try/Catch Blocks and arrays. 
+Got food poisoning, but got coding in before that. I worked on Python Try/Catch Blocks and arrays.
 **Thoughts**
-         I can’t remember since I am writing this a day later. 
+I can’t remember since I am writing this a day later.
+
+
+### Day 32: Nov 08, Thursday 2018
+**Today’s Progress**:
+            I worked on my Python homework today. Worked with some JavaScript with the DOM, and finished the Python basics course on Team Tree House. 
+**Thoughts**
+         I was still getting over being sick yesterday, but I was able to accomplish finishing the Python basics course on Team Tree House. I really liked how they used Trello to make it seem so easy to tackle a project. I really hope in the near future I can use a tool like that so elegantly. It made the project so manageable to do. I just need to learn how to breakdown my own problems in simple steps. 
+
+
+
+### Day 33: Nov 09, Friday 2018
+**Today’s Progress**:
+            I worked on a lot of objects creating and manipulating them, using arrays and loops in conjunction with the DOM. 
+**Thoughts**
+         Friday’s are always hectic, so I am not sure exactly how I was feeling, since I am writing this late. I usually write my Friday blog posts on a Saturday night, since I really don’t have time to write it up on Friday. 
 
 
 
 
+### Day 34: Nov 09, Saturday 2018
+**Today’s Progress**:
+            Today, I got a lot more practice in with Objects and Arrays. I finished up the #TeamTreeHouse JavaScript Object lessons. I also worked on my Python school homework. 
+**Thoughts**
+         Thankfully today I feel like I got a lot done. I finished writing out all my pseudocode, on my Python homework. My homework is pretty much done, including the coding. I finished up the JavaScript Object lessons on TeamTreeHouse as well, along with all the additional practice exercises. 
+I want to say I feel more confident in coding today in general and with objects, but coding is just like golf, when you think you are starting to understand/get it, you really don’t so I won’t jinx myself. Anyhow for what it’s worth, it seemed to be a successful day just on the front of how my brain felt. It was thinking clearly through the coding problems and breaking them down in a healthy formulated way.  
+
+
+
+### Day 35: Nov 10, Sunday 2018
+**Today’s Progress**:
+            Today I finished my Python homework. It came out quite well I believe. 
+**Thoughts**
+         Even though I only worked an hour today on coding. My Python homework came out well. I really took my time on breaking everything down pre-coding in my pseudo code. I think I got a little lazy in the last part when I could have made the code even cleaner with another function to display things out. I could always refactor it, but either way I think it is pretty readable for anyone. On a side note coming from Java and JavaScript, one thing that confuses me a little in Python is the syntax on “for loops”. Although it makes it up, with how easy it is to get through an array. 
 
 
 
