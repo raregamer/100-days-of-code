@@ -373,6 +373,22 @@ I want to say I feel more confident in coding today in general and with objects,
          Even though I only worked an hour today on coding. My Python homework came out well. I really took my time on breaking everything down pre-coding in my pseudo code. I think I got a little lazy in the last part when I could have made the code even cleaner with another function to display things out. I could always refactor it, but either way I think it is pretty readable for anyone. On a side note coming from Java and JavaScript, one thing that confuses me a little in Python is the syntax on “for loops”. Although it makes it up, with how easy it is to get through an array. 
 
 
+### Day 36: Nov 11, Monday 2018
+**Today’s Progress**:
+            Today I worked with the document object in JavaScript. Using it to manipulate and add interactivity with CSS elements on the HTML page.  
+**Thoughts**
+         Not much to talk about just got a pretty high overview today and worked with some selectors in the DOM. Thankfully it was all pretty straight forward, using pretty standard methods. I got familiar with event listeners when I was learning Android development in the past. 
+
+
+
+### Day 37: Nov 12, Tuesday 2018
+**Today’s Progress**:
+            Today I practiced more with manipulating elements/nodes(whatever you want to call it) in the DOM.   
+**Thoughts**
+         Today I used the DOM to add and remove elements from the HTML page. I am getting a little bored with all the lessons I am taking. After I finish this section I am going to find a project to work on for a couple days. I am going to build a static site again maybe using some JavaScript I learned. 
+It has been a while since my last project using CSS, and I want to revisit what I learned prior and still be sharp with it. One hard thing about programming is there are so many moving pieces, but I want to stay sharp on older concepts. Though I am not using them every day on projects. How can you stay sharp if you are trying to learn other concepts also? (I am going to ask this on Reddit now that I am thinking about it so much.)
+
+
 
 
 
