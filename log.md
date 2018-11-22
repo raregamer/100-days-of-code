@@ -357,7 +357,7 @@ I can’t remember since I am writing this a day later.
 
 
 
-### Day 34: Nov 09, Saturday 2018
+### Day 34: Nov 10, Saturday 2018
 **Today’s Progress**:
             Today, I got a lot more practice in with Objects and Arrays. I finished up the #TeamTreeHouse JavaScript Object lessons. I also worked on my Python school homework. 
 **Thoughts**
@@ -366,14 +366,14 @@ I want to say I feel more confident in coding today in general and with objects,
 
 
 
-### Day 35: Nov 10, Sunday 2018
+### Day 35: Nov 11, Sunday 2018
 **Today’s Progress**:
             Today I finished my Python homework. It came out quite well I believe. 
 **Thoughts**
          Even though I only worked an hour today on coding. My Python homework came out well. I really took my time on breaking everything down pre-coding in my pseudo code. I think I got a little lazy in the last part when I could have made the code even cleaner with another function to display things out. I could always refactor it, but either way I think it is pretty readable for anyone. On a side note coming from Java and JavaScript, one thing that confuses me a little in Python is the syntax on “for loops”. Although it makes it up, with how easy it is to get through an array. 
 
 
-### Day 36: Nov 11, Monday 2018
+### Day 36: Nov 12, Monday 2018
 **Today’s Progress**:
             Today I worked with the document object in JavaScript. Using it to manipulate and add interactivity with CSS elements on the HTML page.  
 **Thoughts**
@@ -381,7 +381,7 @@ I want to say I feel more confident in coding today in general and with objects,
 
 
 
-### Day 37: Nov 12, Tuesday 2018
+### Day 37: Nov 13, Tuesday 2018
 **Today’s Progress**:
             Today I practiced more with manipulating elements/nodes(whatever you want to call it) in the DOM.   
 **Thoughts**
@@ -389,7 +389,85 @@ I want to say I feel more confident in coding today in general and with objects,
 It has been a while since my last project using CSS, and I want to revisit what I learned prior and still be sharp with it. One hard thing about programming is there are so many moving pieces, but I want to stay sharp on older concepts. Though I am not using them every day on projects. How can you stay sharp if you are trying to learn other concepts also? (I am going to ask this on Reddit now that I am thinking about it so much.)
 
 
+### Day 38: Nov 14, Wednesday 2018
+**Today’s Progress**:
+            Today I did a practice on DOM Manipulation. Worked on some python HW, building functions. Lastly I started to go through making a To Do List. I do feel a little bit like an impostor with the To Do List since I am using an instructional video to help me along.    
+**Thoughts**
+         I felt the Imposter Syndrome today. It was ticked on when watching part of the To Do List app video I am building. The guy just flies by and I just wish I can understand what I need to do that fast, will I ever be there, etc…,etc… thoughts in a vortex. 
+These task wouldn’t be so unsettling if I was reading instructions not watching someone seem like it’s so simple. I do pause the video often before he starts building and give myself time to figure it out myself, then see how he did it. A lot of times I know what to do, but I just have trouble implementing them. Mainly this happens with the CSS, it drives me crazy, trying to get everything aligning up properly. 
+	Moving on Python was simple for now. And my DOM Practice had some challenges, but I was able to figure it all out. One property I couldn’t remember which type it was I was looking for, to call the method. Ironically enough it was “element.type”. 
+**Links**
+	[To Do List Video] - https://youtu.be/2wCpkOk2uCg
 
+
+### Day 39: Nov 15, Thursday 2018
+**Today’s Progress**:
+            Today I worked on my To Do List in JavaScript. 
+**Thoughts**
+        I didn’t work nearly enough today, because I really just didn’t want to. I wasn’t having a good day. I forced myself to code and I implemented adding notes to a list using the DOM. I couldn’t get any further that, my head was just not interested in working at all today. 
+
+
+### Day 40: Nov 16, Friday 2018
+**Today’s Progress**:
+            Tomorrow I need to do way better. I worked a little on the To Do List, but wow was I lacking. 
+**Thoughts**
+        Impostor syndrome is taking its toll on me. Mixed with I realize I am fine with programming, but when it comes to CSS stuff, please give me anything, but that. I will continue to work on it, but it is really discouraging me from programming.. 
+
+
+
+### Day 41: Nov 17, Saturday 2018
+**Today’s Progress**:
+            I finished the To Do List APP, I also finished my latest Python homework. 
+**Thoughts**
+        Impostor syndrome is still taking a toll on me. It flares up more I realized, when I watch YouTube videos of people coding. I am going to stick to very specific Team Tree House videos or books from now on. Finishing up the To Do List video on YouTube really wasn’t easy for me to processes. I did finish it, but I also ended up cheating in the end on the CSS Pseudo selectors, by just copying and pasting it. I was just getting sick of watching someone fly through CSS coding like it was a breeze.  
+**Links**
+[To Do List] https://github.com/raregamer/To-Do-List
+
+
+### Day 42: Nov 18, Sunday 2018
+**Today’s Progress**:
+            I worked on a new section of manipulating the DOM with interactions on Team Tree House
+**Thoughts**
+      I was really tired today, and I took it pretty easy on coding. I feel like I might be going into a burnout stage. So I started to slow down on my coding today and recharge. Though I did feel pretty guilty for not coding more. Tomorrow is a new day.  
+
+
+### Day 43: Nov 19, Monday 2018
+**Today’s Progress**:
+            Finished the traversing the DOM course on Team Tree House. 
+**Thoughts**
+      I finished up working with selectors and manipulating the DOM in JavaScript. I look forward to doing the practice exercise, then moving back to Free Code Camp and also more Python. I am honestly sick of watching videos. I much rather read directions and instructions then a video presentation. I do like answers in video format just not the instructions.  
+
+
+### Day 44: Nov 20, Tuesday 2018
+**Today’s Progress**:
+           I worked on practicing traversing the DOM. I also worked on more Python.
+**Thoughts**
+      Writing this late due to a long day. I did the Team Tree House practice session for traversing the DOM. I also worked on Python arrays a little in class. 
+
+
+### Day 45: Nov 21, Wednesday 2018
+**Today’s Progress**:
+            Today I started the #FreeCodeCamp ES6 in JavaScript section. 
+**Thoughts**
+      I started the ES6 section on Free Code Camp. I really enjoyed working on a problem that used arrow functions (I will post the question and my solution below). Mainly I enjoyed it because I understood how to breakdown the problem. Then look up the MDN documentation, and the best part was I actually understood what I was searching for and how to read the documentation. I think I finally can say I am getting a tad better at reading official documentation, which is super important in programming. 
+
+FCC Instructions:  
+“Use arrow function syntax to compute the square of only the positive integers (decimal numbers are not integers) in the array realNumberArray and store the new array in the variable squaredIntegers.”
+
+My Solution: 
+	const realNumberArray = [4, 5.6, -9.8, 3.14, 42, 6, 8.34, -2];
+	const squareList = (arr) => {
+	  "use strict";
+
+	  // change code below this line
+	 // my Solution
+	  const squaredIntegers = arr.filter(arr => Number.isInteger(arr) && arr >= 0).map(x =>  x * x); 
+	  // change code above this line
+	  return squaredIntegers;
+	};
+	// test your code
+	const squaredIntegers = squareList(realNumberArray);
+	console.log(squaredIntegers);
 
 
 
