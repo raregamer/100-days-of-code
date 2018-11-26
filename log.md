@@ -471,6 +471,40 @@ My Solution:
 
 
 
+### Day 46: Nov 22, Thursday 2018
+**Today’s Progress**:
+Today I worked on some more ES6, and for fun and practice I am going through CSS Diner.
+**Thoughts**
+      I started going through CSS Diner, I am a little more than halfway through the ES6 section on Free Code Camp. I am having some personal problems that is making for a really tough time. Coding with a clear state of mind has short windows. Though I keep pounding through, hopefully I can reach a break through soon.  
+**Links**
+[CSS Diner] - https://flukeout.github.io/
+
+
+
+### Day 47: Nov 23, Friday 2018
+**Today’s Progress**:
+Today I worked on some more ES6, and finished CSS Diner
+**Thoughts**
+      CSS Diner was a fun interesting way to go through Selectors. I think it did show me a few new neat tricks. I love the way they presented it. 
+**Links**
+[CSS Diner] - https://flukeout.github.io/
+
+
+
+### Day 48: Nov 24, Saturday 2018
+**Today’s Progress**:
+Today I worked on more of the ES6 section from Free Code Camp. I should be done by tomorrow. Then I want to map out some ideas to build something, it has been too long.  
+**Thoughts**
+      I am about done with the ES6 section from Free Code Camp. I did have some struggle on one of the problems, mainly because I couldn’t remember what function to use to split an array up. It happened to be .map(). I had to use a hint from Free Code Camp. One big struggle is it’s so hard to know when you’re coding what you’re even looking for, or how to explain what I am trying to do. I really need to get better with that and not getting so nervous when I don’t know. I wish I knew how people learned that skill. 
+
+
+
+### Day 49: Nov 25, Sunday 2018
+**Today’s Progress**:
+Today I finished up the ES6 section on Free Code Camp and worked on my Python HW.
+**Thoughts**
+      I finished up the ES6 section on #FCC. I also finished up the Pseudo Code for my Python HW, and I am going to start coding it up now. It might take a couple days to finish coding. It is a long problem, with writing and reading to files.
+
 
 
 
