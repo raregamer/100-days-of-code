@@ -506,6 +506,36 @@ Today I finished up the ES6 section on Free Code Camp and worked on my Python HW
       I finished up the ES6 section on #FCC. I also finished up the Pseudo Code for my Python HW, and I am going to start coding it up now. It might take a couple days to finish coding. It is a long problem, with writing and reading to files.
 
 
+### Day 50: Nov 26, Monday 2018
+**Today’s Progress**:
+	I’ve been working on my Python homework today which, is a lot of reading and writing to files. 
+**Thoughts**
+      I worked for a little more than an hour for now on my Python homework today. I am getting as much coding in as I can these days. The holidays and my job, have been taking a lot of my time up. Which is handicapping me to work freely, and with a clear mind set for coding. Though I think about 2 hours after my work ends and dinner is done, I get enough clarity to progress on my coding journey for at least a couple of hours, before I am burnt out. 
+
+
+### Day 51: Nov 27, Tuesday 2018
+**Today’s Progress**:
+	Today I worked on more reading and writing files in Python. I also had to write in class a shopping cart application in pseudo code.
+**Thoughts**
+      I am getting to feel more comfortable in my coding skills. Although in school I had to write a pseudo code application on the spot, and I had to take several deep breaths before I started, to code in a calm manor. It took me probably 15 minutes to settle myself down and not be so nervous about coding and start working on the problem properly. Man do I hope that feeling goes away somehow (I hate being nervous and for really no reason. Honestly what is the worst that can happen from coding? Your code doesn’t work and you just have to fix it.(well if it was broken code in an important company that can be a problem, but I am not quite there yet :) ).   
+
+
+### Day 52: Nov 28, Wednesday 2018
+**Today’s Progress**:
+	Today I been working on finishing up my homework. Hopefully it needs only another hour or two. I am working on building a function that process employee data, calculates some of the data and writes it to a document.
+**Thoughts**
+      Formatting in coding is really a nuisance.   
+
+
+
+
+
+
+
+
+
+
+
 
 
 
