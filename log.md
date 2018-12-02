@@ -528,12 +528,33 @@ Today I finished up the ES6 section on Free Code Camp and worked on my Python HW
 
 
 
+### Day 53: Nov 29, Thursday 2018
+
+**Today’s Progress**:
+
+            I finished my Python HW today, it had a lot of parts, so it took me a couple days. Now I am on to the next and final HW assignment.
+
+**Thoughts**
+
+      Did you know that a .write() method only accepts one argument? Well I do :). Anyhow everything went as well as I can expect today. Looking forward to finishing up my last homework that I will probably start this weekend.     
 
 
 
+### Day 54: Nov 30, Friday 2018
+**Today’s Progress**:
+	Today I started my final Python HW. Finished out all the pseudo code, and briefly started coding it up.  
+**Thoughts**
+      	Not much to say, tomorrow I will working on finishing up the final HW assignment.  
 
 
-
+### Day 55: Dec. 1, Saturday 2018
+**Today’s Progress**:
+	I worked on my final Python HW project, it is almost done. I just need to add some conditional statements. I also worked on some #hourOfCode activities, since I will be volunteering this week. 
+**Thoughts**
+I spent close to a little over an hour and half, working on two functions that print out a table, based on a user criteria and laid out the ground work for the finishing touches of my final home work. 
+On the Hour of Code activities, I wanted to familiarize myself a little with the platform, before I volunteered, so I checked out some cool projects they have. I tried a Star Wars one moving BB8 around. A video overlay for news programming. Lastly a mobile app that was showing how event listeners and other elements work.  I am very impressed overall with the initiative of this program and loved how they do it. It is almost a pre-cursor to freecodecamp.com and I only wish I grew up with things like this, and tried it sooner. 
+**Links**
+[Hour Of Code} https://hourofcode.com/us/learn
 
 
 
