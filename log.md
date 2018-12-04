@@ -557,7 +557,26 @@ On the Hour of Code activities, I wanted to familiarize myself a little with the
 [Hour Of Code} https://hourofcode.com/us/learn
 
 
+### Day 56: Dec. 2, Sunday 2018
 
+**Today’s Progress**:
+
+            I worked on my final Python HW project, I still have a few more finishing touches, since I like to overthink things and keep trying out different coding solutions. I #loveToDelayFinishing, I #shouldBeDone, though I am #laughingAtMySelf and having #fun at the same time so it's all good. Anyhow moving on RELAX time SLEEPzzzTime.  :) 
+
+**Thoughts**
+
+                Tired, Tired, Tired…Overall AOK.
+
+
+### Day 57: Dec. 3, Monday 2018
+
+**Today’s Progress**:
+
+            I finished my last Python HW for the semester. I also started the #freecodecamp regex course.
+
+**Thoughts**
+
+ I am thinking about what project I should work on next since my Python class for the semester is done tomorrow, I’ll be on break for the next couple weeks. So besides working on Free Code Camp, I want to get my own project started. I really need to brainstorm. I am also starting to tidy my resume, so I can apply for internships in the summer.
 
 
 
