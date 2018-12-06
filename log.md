@@ -579,4 +579,18 @@ On the Hour of Code activities, I wanted to familiarize myself a little with the
  I am thinking about what project I should work on next since my Python class for the semester is done tomorrow, I’ll be on break for the next couple weeks. So besides working on Free Code Camp, I want to get my own project started. I really need to brainstorm. I am also starting to tidy my resume, so I can apply for internships in the summer.
 
 
+### Day 58: Dec. 4, Tuesday 2018
+**Today’s Progress**:
+           Day 58 I had my Python final today.
+**Thoughts**
+	I had my Python final today, everything was going well until my final problem. I had to just have a password meet conditions.  Even that went well for the first part. Until it came to verifying the password, the conditional system was easily fool able. I was having trouble with scoping as well when it came to Python for a while. I later found out a better solution would be to use regular expressions, but in the moment it didn’t even occur to me, which is funny, because that is what I am learning on my own currently, granted in JavaScript, but the concepts remain the same. So I do plan to redo that final question in the next day or so in a proper way, being I didn’t like how my final solution came out.  
+
+
+### Day 59: Dec. 5, Wednesday 2018
+**Today’s Progress**:
+           I got to volunteer at the Hour of Code event today! I also worked on regular expressions in JavaScript (Regex) on FreeCodeCamp.
+**Thoughts**
+	I am not going to lie, at the time of this writing, I have only done 30 minutes of code today, but I plan on making up the other 30 min before I go to sleep, and hopefully more. It was just a busy day. I volunteered at the Hour of Code event today which was really fun to do. I hope to be a part of it again next year. I believe the kids really enjoyed it, and I enjoyed helping and watching them play the Hour of Code games, which was the Grinch and a dance one. Hour of Code is an awesome program for kids and really anyone. 
+
+
 
