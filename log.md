@@ -593,4 +593,136 @@ On the Hour of Code activities, I wanted to familiarize myself a little with the
 	I am not going to lie, at the time of this writing, I have only done 30 minutes of code today, but I plan on making up the other 30 min before I go to sleep, and hopefully more. It was just a busy day. I volunteered at the Hour of Code event today which was really fun to do. I hope to be a part of it again next year. I believe the kids really enjoyed it, and I enjoyed helping and watching them play the Hour of Code games, which was the Grinch and a dance one. Hour of Code is an awesome program for kids and really anyone. 
 
 
+### Day 60: Dec. 6, Thursday 2018
+
+**Today’s Progress**:
+
+           I worked on more Regex in JavaScript. I used some regex as well on my Python password validation code.
+
+**Thoughts**
+
+            I think today went well I worked on my Free Code Camp regex section which should be done by tomorrow. I also built out a small Python password validator which was an assignment for school that I wanted to redo with regex.
+
+**Code**
+
+	import re
+
+	##Check password function
+
+	def isValidPassword(enteredPassword):
+
+	lengthCheck = False
+
+	if(len(enteredPassword) >= 6 and len(enteredPassword) <= 16):
+
+	lengthCheck = True
+
+	else:
+
+	lengthCheck = False
+
+
+	## check for letters
+
+	letterCheck = False
+
+	alpha = re.compile('[a-z]+',re.I)
+
+	if(alpha.search(enteredPassword)):
+
+	letterCheck = True
+
+	else:
+
+	letterCheck = False
+
+
+	## check for numbers
+
+	numberCheck = False
+
+	numCheck = re.compile('[\d+]')
+
+	if(numCheck.search(enteredPassword)):
+
+	numberCheck = True
+
+	else:
+
+	numberCheck = False
+
+
+
+
+	## check for special characters
+
+	specialCharacterCheck = False
+
+	specialCheck = re.compile('[!@#$%^&*~]')
+
+	if(specialCheck.search(enteredPassword)):
+
+	specialCharacterCheck = True
+
+	else:
+
+	specialCharacterCheck = False
+
+	print(lengthCheck, letterCheck, numberCheck, specialCharacterCheck)
+
+
+	##Check if password meets requirements. 
+
+	if(lengthCheck and letterCheck and numberCheck and specialCharacterCheck):
+
+	return True
+
+	else:
+
+	return False
+
+
+	## Get Password
+
+	password = input("Enter Password: ")
+
+	if(isValidPassword(password)):
+
+	print("Password Valid")
+
+	else:
+
+	print("Password Failed")
+
+
+### Day 61: Dec. 7, Friday 2018
+**Today’s Progress**:
+           I worked a little Regex in JavaScript 
+**Thoughts**
+	Today I was really busy, so honestly I didn’t get much coding in I forced myself to do about 20 minutes of code today. It was on the Regex section of Free Code Camp. 
+
+### Day 62: Dec. 8, Saturday 2018
+**Today’s Progress**:
+           Today I spent a lot of time on Regex in JavaScript, and finished the #FreeCodeCamp section on it. 
+**Thoughts**
+		Today I made up for how little time I spent coding. I probably spent 2-4 hours on just one of the problems trying to figure out how to reuse patterns with regex on one of the Free Code Camp questions. I sadly have to admit I had to use hints (Which to me is basically cheating, so cheat) to figure this out. I am not sure why I couldn’t figure out the right direction or what it was asking me to do. Anyhow the link to the question and my solution is below.
+		The good news is by spending so much time on that regex question, I think I learned a ton on Regular Expressions, being I spent tons of time trying different regex variations and what they do. So I have to say I definitely learned a lot. Thank you regex101.com you’re a great resource. 
+
+*Link*
+[FCC Regex question]: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups
+[Solution to question]:	 /^(\d+)\s\1\s\1$/
+[Regex101]: https://www.regex101.com
+
+### Day 63: Dec. 9, Sunday 2018
+**Today’s Progress**:
+           Today I did the @freeCodeCamp debugging section.
+**Thoughts**
+		Today I was super down, for numerous reasons. Anyhow I was able at the end of the day to put that aside and power through the debugging section of Free Code Camp. 
+
+
+
+
+
+
+
 
