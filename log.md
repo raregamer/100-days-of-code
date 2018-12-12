@@ -719,7 +719,20 @@ On the Hour of Code activities, I wanted to familiarize myself a little with the
 **Thoughts**
 		Today I was super down, for numerous reasons. Anyhow I was able at the end of the day to put that aside and power through the debugging section of Free Code Camp. 
 
+###Day 64: Dec. 10, Monday 2018
+**Today’s Progress**:
+           Today I started the Free Code Camp Basic Data Structures section.
+**Thoughts**
+                        I wish I knew how many times I actually went over certain coding concepts. Part of me knows I’ve done a lot of the Free Code Camp problems previously, yet they still feel unfamiliar, yet familiar at the same time. The problems are getting more interesting and fun.
+                       I am excited and looking forward to getting to the project section of the “JavaScript Algorithms and Data Structures Certification”. Lastly I am happy to keep a flow going. Oh yeah yesterday I forgot to mention I started applying for summer internships, I am really hoping someone takes a chance on me and realizes it was a great choice.
 
+
+
+###Day 65: Dec. 11, Tuesday 2018
+**Today’s Progress**:
+           Working hard through the Free Code Camp Basic Data Structures section.
+**Thoughts**
+                        I have been coding for more than an hour a day currently on the Data Structures section @freecodecamp. It has been great though, they are tougher questions and you really feel like you worked hard to get to your solution and feel a sense of accomplishment. I hope to keep the momentum going, I do see the uphill battle in view for the coming soon sections.    
 
 
 
