@@ -736,6 +736,82 @@ On the Hour of Code activities, I wanted to familiarize myself a little with the
 
 
 
+### Day 66: Dec. 12, Wednesday 2018
+**Today’s Progress**:
+           Today I finished the #FreeCodeCamp “Basic Data Structures” and started the “Basic Algorithm Scripting”
+**Thoughts**
+		I can’t quite get rid of the butterflies in my stomach, every time I approach a new problem. I do have more confidence then I use to and I know how to get to the end solution, but shaking that feeling of the possibility of failure, sure feels improbable. So on that note…  
+I need to stop worrying about sprinting and just walking and enjoy the moment. I believe the main reason for the butterflies is I just want to know I am good enough for a work place or anything and I am too scared to fail. 
+
+### Day 67: Dec. 13, Thursday 2018
+
+**Today’s Progress**:
+
+           Today I worked on the Basic Algorithm Scripting section in #FreeCodeCamp. I am exactly half way through that section. 
+
+**Thoughts**
+
+                        Everything went good in coding. Although on the Free Code Camp question of “Basic Algorithm Scripting: Truncate a String”. I solved the answer, but it was kind of accidental, because I was trying to see why my original code wasn’t working. I have a feeling I am not reading the question right (Which is below). So what I kept thinking on my if statement was if(str.length >= num), but then I just made it less than or equal (<=) to try it out. And behold it past there tests. Something about the sentence structure must be throwing me off. It’s kind of late, so I am going to review it tomorrow anyhow.
+
+Question:
+
+Truncate a string (first argument) if it is longer than the given maximum string length (second argument). Return the truncated string with a ...ending.
+
+Solution:
+
+				function truncateString(str, num) {  // Clear out that junk in your trunk
+
+
+
+				  if(str.length <= num){
+
+				    console.log(str.length)
+
+				    return str;
+
+				 }  
+
+				//get the part of the string needed with slice function, up to the number in argument
+
+				 let stringName = str.slice(0,num);  
+
+				 stringName += "...";   
+
+				 return stringName;
+
+				}
+
+
+
+				 truncateString("A-tisket a-tasket A green and yellow basket", 8);
+
+
+
+**Links**
+
+            [FCC question that confused me]: https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string
+
+
+
+### Day 68: Dec. 14, Friday 2018
+**Today’s Progress**:
+                      Today I worked on more of the Basic Algorithm Scripting section in #FreeCodeCamp. I am 2/3 of the way through. 
+**Thoughts**
+		Everything has been going surprisingly well lately, in all of the coding challenges. I hope the momentum keeps going. 
+
+
+
+
+
+### Day 69: Dec. 15, Saturday 2018
+**Today’s Progress**:
+                      Today I worked on more Basic Algorithm Scripting from #FreeCodeCamp. I have 2 more questions left. The last few problems keep throwing me off with little nuances.   
+**Thoughts**
+		Everything is going okay, I am excited to finish up tomorrow, this Algorithm section. These last 4 questions or so have been taking me probably around an hour each. Between just understanding the little nuances that can come up to solve each problem. And me reading up on methods from the MDN(Mozilla Developers Network), and getting to know and understand them. On another note the MDN is now my best friend. 
+
+
+
+
 
 
 
