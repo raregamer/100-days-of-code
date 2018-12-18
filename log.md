@@ -810,6 +810,23 @@ Solution:
 		Everything is going okay, I am excited to finish up tomorrow, this Algorithm section. These last 4 questions or so have been taking me probably around an hour each. Between just understanding the little nuances that can come up to solve each problem. And me reading up on methods from the MDN(Mozilla Developers Network), and getting to know and understand them. On another note the MDN is now my best friend. 
 
 
+### Day 70: Dec. 16, Sunday 2018
+
+**Today’s Progress**:
+
+                      Today I finished the Basic Algorithm Scripting from #FreeCodeCamp. On to the OOP(Object Oriented Programming) section.
+
+**Thoughts**
+
+                        I find it funny when my solutions are different then the Free Code Camp ones. I know they don’t mind, but I still have to wonder why it bothers me if I don’t have the same solution as them. I guess that is what coding is all about, tons of ways to solve a problem :).  
+
+
+### Day 71: Dec. 17, Monday 2018
+**Today’s Progress**:
+                      Today I started working on the OOP(Object Oriented Programming) section of #FreeCodeCamp.
+**Thoughts**
+		Looking at OOP through the eyes of JavaScript, is always an adjustment. Especially after learning Java OOP. They are similar in concepts, yet feel so different. Anyhow with each section I get through on #FCC I am more excited to keep moving on and get to real projects again. They feel so close, yet so far away.  
+
 
 
 
