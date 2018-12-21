@@ -829,6 +829,35 @@ Solution:
 
 
 
+### Day 72: Dec. 18, Tuesday 2018
+
+**Today’s Progress**:
+
+                      Today I finished the OOP(Object Oriented Programming) section of #FreeCodeCamp.
+
+**Thoughts**
+
+                   I had to force myself to code today. I really wasn't in the mood to code. I am Happy I got through it though.
+
+
+
+### Day 73: Dec. 19, Wednesday 2018
+
+**Today’s Progress**:
+
+I started working on the “Functional Programming” section today from #FreeCodeCamp.
+
+**Thoughts**
+
+…
+
+
+### Day 74: Dec. 20, Thursday 2018
+**Today’s Progress**:
+                      I am working on more of the “Functional Programming” section from #FreeCodeCamp.
+**Thoughts**
+                   …It is getting rough out in the world these days and it makes it hard to concentrate. 
+
 
 
 
