@@ -859,5 +859,21 @@ I started working on the “Functional Programming” section today from #FreeCo
                    …It is getting rough out in the world these days and it makes it hard to concentrate. 
 
 
+### Day 75: Dec. 21, Friday 2018
+**Today’s Progress**:
+                      Same things different day, working on more of the “Functional Programming” section from #FreeCodeCamp.
+**Thoughts**
+                   I really wish this only thing on my mind was learning to code or I should say just coding. I honestly think I know how to code, although I am learning new concepts in coding. So maybe it’s just learning new coding concepts I should be saying. Hmm…
+ 
+
+### Day 76: Dec. 22, Saturday 2018
+**Today’s Progress**:
+                      I am closing up on finishing out the “Functional Programming” #FreeCodeCamp section.  I am closing in on finishing out the “Functional Programming” #FreeCodeCamp section. I only have a few questions left.
+**Thoughts**
+                   I happen to really like this functional programming section in Free Code Camp, since it has been allowing me to work a lot of with JSON and array manipulations. I hope to be done in the next day or two. It depends how long each questions will take some are a breeze some take 30 minutes. So we will see.  
+ 
+
+
+
 
 
