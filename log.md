@@ -1,4 +1,4 @@
-
+﻿
 
 
 ### Day 1: October 08, Monday 2018
@@ -873,7 +873,66 @@ I started working on the “Functional Programming” section today from #FreeCo
                    I happen to really like this functional programming section in Free Code Camp, since it has been allowing me to work a lot of with JSON and array manipulations. I hope to be done in the next day or two. It depends how long each questions will take some are a breeze some take 30 minutes. So we will see.  
  
 
+### Day 77: Dec. 23, Sunday 2018
+**Today’s Progress**:
+                       I am still finishing up on the “Functional Programming” section on #FreeCodeCamp. I keep getting caught up on the regex delimiters I need to use amongst a few other problems I am not fluent in yet.
+**Thoughts**
+	It is hard to get fluent/familiar with certain tools, like REGEX or certain methods. I understand them, but I do have to keep going back to resources such as the MDN and blogs to refresh my memory often. I know what I need to use which I think is half the battle, but I am not building anything enough to keep it fluent yet. 
+                    
+
+
+### Day 78: Dec. 24, Monday 2018
+**Today’s Progress**:
+                       Today I finished the “Functional Programming” section on #FreeCodeCamp. I also started the “Intermediate Algorithm” section. 
+**Thoughts**
+	Well as usual on the first algorithm question, my approach is different than the provided solutions. Technically they are the same in thought process and concept to a solution, but I didn’t use the Math class. Anyhow onwards I go.
+                    
+
+
+### Day 79: Dec. 25, Tuesday 2018
+
+**Today’s Progress**:
+
+I am working through the advanced “Intermediate Algorithm” section on #FCC. I did get stuck on the “Seek and Destroy” problem.
+
+**Thoughts**
+
+I had to stop coding in the middle of the Intermediate Algorithm Scripting: Seek and Destroy question. This isn’t something I like to do, but I don’t have much time to code currently, being I am on vacation. I did look at the hints and am reading a little more on how arguments work in JavaScript. It looks like it kind of takes all items passed through the one parameter as one whole unit. Pretty interesting, so I was reading up on how that works. Then I will most likely split it up and compare, but for now I am just learning more about how arguments work in JavaScript and the .call function.
+
+
+### Day 80: Dec. 26, Wednesday 2018
+
+**Today’s Progress**
+
+Working on the “Wherefore art thou” algorithm on #FreeCodeCamp.
+
+**Thoughts**
+
+The algorithm questions have definitely ramped up in difficulty, so they are taking me a little longer to get through.
 
 
 
+### Day 81: Dec. 27, Thursday 2018
 
+**Today’s Progress**
+
+           
+At this point I barely got in 40 minutes. I am still working on the “Wherefore art thou” algorithm. I wanted to get the write up out of the way. Though I will get at least 20 more minutes in before sleep, or more.
+
+
+**Thoughts**
+
+        
+I am exhausted, I am trying to do way too many things these days. Next week it should calm down a little and allow me more time and focus to code.
+
+
+### Day 82: Dec. 28, Friday 2018
+
+**Today’s Progress**
+
+I am still working on the “Wherefore art thou” algorithm. *SIGH*
+
+**Thoughts**
+
+It’s not going well.
+  
