@@ -935,4 +935,197 @@ I am still working on the “Wherefore art thou” algorithm. *SIGH*
 **Thoughts**
 
 It’s not going well.
+
+
+
+### Day 83: Dec. 29, Saturday 2018
+**Today’s Progress**
+                       I spent plenty of hours on the “Wherefore art thou” algorithm. I finally solved it with help from a member of the Discord coding community. 
+
+**Thoughts**
+	After spending so much time on the Algorithm question for “Wherefore art thou”, I should of just solved it the way I knew how. Which ended up being the way I solved the question anyhow with, since I had reassurance it was the correct way to approach the problem. Which incorporated flags for my answer (my answer is below). 
+
+	Before answering the question I spent numerous hours of my time trying to force in using the .filter method to no avail. Since I believe it is the way #FCC, was expecting me to answer it with, but in the end I came up with I just don’t understand callbacks enough and how these functions are all working together. That is why I am going to try and focus on understanding callbacks and these .map, .filter, .reduce functions, for the next day.  
+
+*Impostor Syndrome is in full effect, I don’t feel smart enough at all for programming, and I’m really starting to think I am making a huge mistake in pursuing programming. Things are starting to get really tough with trying to remember and understand what each function does and how they all work together to get the results I need. I know what I need to do to solve a problem, but getting it written in computer language is much easier said than done. 
+
+**Answer to Wherefore art thou**
+		function whatIsInAName(collection, source) {
+		  // What's in a name?
+		//Hold new collection of objects.
+		  var arr = [];
+		  // Loop through the collection to grab an object. 
+		// from the source get the keys that are required to be in the object
+		//use a flag to make sure it has all the keys and values pair equivalence matched
+		for (let i=0; i<collection.length;i++) {
+		  let item = collection[i];
+		  let sourceKeys = Object.keys(source);
+		 let hasAllKeys = true;
+		//nested loop to go through the source keys and check the collection item/object if it doesn’t equal source, thus requirements aren’t met 			and hasAllKeys = false;
+		  for(let j = 0; j < sourceKeys.length; j++){
+		    if(item[sourceKeys[j]] != source[sourceKeys[j]]){
+			 hasAllKeys = false;
+		    }
+		  }
+		//if hasAllKeys push the item/object to the array.
+		if(hasAllKeys){
+		  arr.push(item);
+		}
+		}
+		  // Only change code above this line
+		  return arr;
+		}
+
+
+### Day 84: Dec. 30, Sunday 2018
+**Today’s Progress**
+                       I did more research on callbacks, I solved the “wherefore art thou” using the filter method. I started working on the “Spinal Tap Case”. I Just need to tweak it a little, well really find the regex to allow me to work with a range of a capital letter to another letter. The regex for spaces and dashes was the easy part.  
+**Thoughts**
+	I am better today, but I am starting to get bored of working on just algorithms questions and no other coding projects. 
+
+
+### Day 85: Dec. 31, Monday 2018
+**Today’s Progress**
+                Today I finished the #FCC Spinal Tap Algorithm (solution on blog). I also started working on a new side project.          
+**Thoughts**
+	I finished up the algorithms for the Spinal Tap case. It had its difficulties finding the correct way to write my regex, it wasn’t too bad. The hardest part was just figuring out how to right the Regex to have it do what I wanted it to.  The solution is below. 
+	I also started working on a new personal project code named ”Project Papyrus” for now, since I wanted to be working on something that wasn’t just algorithms all the time. So I decided to split my time between my own project and the advanced algorithm questions on Free Code Camp. This way I have something that feels more exciting to work on.  
+
+**Link**
+[FCC question] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case
+
+**Solution**
+		function spinalCase(str) {
+		  // "It's such a fine line between stupid, and clever."
+		  // --David St. Hubbins
+
+		// split string into array, either by capital or underscore or space
+		let re = /(?=[A-Z])|[\_\s]/;
+		//Make array with regex split
+		let matchesArray = str.split(re);
+		//join to make a string
+		let stringTest = matchesArray.join("-").toLowerCase();
+
+		console.log("Array: " + matchesArray);
+		console.log(stringTest);
+
+		  return stringTest;
+		}
+
+		spinalCase('This IsSpinal_tap');
+
+		/* make regex expression that checks for space and _ in string
+		replace with -
+		 */
+
+### Day 86: Jan. 1, Tuesday 2018
+
+**Today’s Progress**
+
+               Happy New Year! Got a couple of algorithms done on #FCC. Doing more research and planning my approach for my side project as well.
+
+**Thoughts**
+
+      I was happy to be able to get through 2 algorithms today, pretty simply. Below is my “Pig Latin” solution since it seemed like the only solution Free Code Camp didn’t have. I also started mapping out more of a plan for my side project. I started checking out some APIs for it that I will need. I also plan on going through some API tutorials, since it has been a while since I touched one. I think I found a pretty straight forward refresher tutorial, which I posted a link to below.
+
+
+
+**Links**
+
+
+
+[API Tutorial]: https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
+
+
+
+
+
+**Solution**
+
+function translatePigLatin(str) {
+
+  //list of vowels
+
+  var vowels = ["a","e","i","o","u"];
+
+  //if first letter a vowel return string with "way" on the end.
+
+  if(vowels.includes(str[0])){
+
+    return str+="way";
+
+
+
+  }
+
+
+
+  else{
+
+    //find next vowel using regex
+
+    let re = /(?=[aeiou])(.+)/;
+
+
+
+    //split at vowel position and make a new array
+
+    let splitString = str.split(re);
+
+   
+
+    // create a new array with the correct order of the 2 elements.
+
+    let newArray = swapArrayElements(splitString,0,1);
+
+
+
+    //push the "ay" on the end of the new array to make the pig latin.
+
+    newArray.push("ay");
+
+    //join the array together to make the piglatin word.
+
+    let pigLatin = newArray.join("");
+
+   
+
+    return pigLatin;
+
+
+
+  }
+
+
+
+
+
+}
+
+
+
+//function to swap array elements
+
+var swapArrayElements = function(arr, indexA, indexB){
+
+  var temp = arr[indexA];
+
+  arr[indexA] = arr[indexB];
+
+  arr[indexB] = temp;
+
+  return arr;
+
+};
+
+
+
+console.log(translatePigLatin("consonant"));
+
+
+
+
+
+
+
   
