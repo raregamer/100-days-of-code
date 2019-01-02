@@ -1042,85 +1042,85 @@ It’s not going well.
 
 **Solution**
 
-function translatePigLatin(str) {
+		function translatePigLatin(str) {
 
-  //list of vowels
+		  //list of vowels
 
-  var vowels = ["a","e","i","o","u"];
+		  var vowels = ["a","e","i","o","u"];
 
-  //if first letter a vowel return string with "way" on the end.
+		  //if first letter a vowel return string with "way" on the end.
 
-  if(vowels.includes(str[0])){
+		  if(vowels.includes(str[0])){
 
-    return str+="way";
-
-
-
-  }
+		    return str+="way";
 
 
 
-  else{
-
-    //find next vowel using regex
-
-    let re = /(?=[aeiou])(.+)/;
+		  }
 
 
 
-    //split at vowel position and make a new array
+		  else{
 
-    let splitString = str.split(re);
+		    //find next vowel using regex
 
-   
-
-    // create a new array with the correct order of the 2 elements.
-
-    let newArray = swapArrayElements(splitString,0,1);
+		    let re = /(?=[aeiou])(.+)/;
 
 
 
-    //push the "ay" on the end of the new array to make the pig latin.
+		    //split at vowel position and make a new array
 
-    newArray.push("ay");
+		    let splitString = str.split(re);
 
-    //join the array together to make the piglatin word.
+		   
 
-    let pigLatin = newArray.join("");
+		    // create a new array with the correct order of the 2 elements.
 
-   
-
-    return pigLatin;
+		    let newArray = swapArrayElements(splitString,0,1);
 
 
 
-  }
+		    //push the "ay" on the end of the new array to make the pig latin.
+
+		    newArray.push("ay");
+
+		    //join the array together to make the piglatin word.
+
+		    let pigLatin = newArray.join("");
+
+		   
+
+		    return pigLatin;
+
+
+
+		  }
 
 
 
 
 
-}
+		}
 
 
 
-//function to swap array elements
+		//function to swap array elements
 
-var swapArrayElements = function(arr, indexA, indexB){
+		var swapArrayElements = function(arr, indexA, indexB){
 
-  var temp = arr[indexA];
+		  var temp = arr[indexA];
 
-  arr[indexA] = arr[indexB];
+		  arr[indexA] = arr[indexB];
 
-  arr[indexB] = temp;
+		  arr[indexB] = temp;
 
-  return arr;
+		  return arr;
 
-};
+		};
 
 
 
-console.log(translatePigLatin("consonant"));
+		console.log(translatePigLatin("consonant"));
 
 
 
