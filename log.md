@@ -1018,7 +1018,7 @@ It’s not going well.
 		replace with -
 		 */
 
-### Day 86: Jan. 1, Tuesday 2018
+### Day 86: Jan. 1, Tuesday 2019
 
 **Today’s Progress**
 
@@ -1124,8 +1124,86 @@ It’s not going well.
 
 
 
+### Day 87: Jan. 2, Wednesday 2019
+**Today’s Progress**
+               I worked through an API tutorial. After that I worked on adding what I learned, into my personal project. Messed around with flexbox and DOM manipulation. 
+**Thoughts**
+	I am trying to learn how to work with themoviedb.org API. It has a lot of things going on and not even close to as straight forward to the tutorial I did, but that is what happens in the real world. Anyhow on a side note, I am pretty frustrated today with the outside sources of life. I did probably code most of my day though.  Tomorrow I plan on doing an algorithm challenge on free code camp, since I never got to one today. Then I will work on trying to get the API connected how I want as well. 
 
 
+### Day 88: Jan. 3, Thursday 2019
 
+**Today’s Progress**
+
+Today I worked on the “CSS Selectors” section on #TeamTreeHouse. I did a couple of algorithm challenges on #FCC and I worked on understanding AJAX with APIs more.
+
+**Thoughts**
+
+I had a lot of trouble understanding how to connect with AJAX and the movie API I was working with, to get the objects I wanted. So after a while messing with that I started to bring myself back to reality and reading more of the basics on it and not getting to ahead of myself with it. After that I started to get back on track with the front end course on Team Tree House, since I only have a section or two before the Ajax introduction. So I figured I should start from the basics and teach myself from there. Lastly I did a couple more algorithm challenges today.
+
+
+### Day 89: Jan. 4, Friday 2019
+**Today’s Progress**
+               Today I finished part 1 of the “CSS Selectors” section on #TeamTreeHouse. I also did a couple of algorithm challenges on #FCC.
+**Thoughts**
+	Not much to say. 
 
   
+
+
+### Day 90: Jan. 5, Saturday 2019
+**Today’s Progress**
+               Today I worked on a #FCC algorithm. That for some reason caused me pain for no reason. 
+**Thoughts**
+	For some reason todays algorithm, triggered bad habits in me and took me way longer then I wanted. I had to step away because my brain wasn’t processing what it needed to do correctly. Though after I relaxed and took a break I came back and solved it pretty fast and simply. 
+Something about any mathematical problem that has a math term associated with it, somehow always psyches me out. I think I have some type of PTSD associated with math formulas. I am glad I was able to take a step back though in the end and solve it without any issues. My solution is below. 
+**Links**
+	[Fibonacci Question] - https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-odd-fibonacci-numbers.
+**Solution**
+
+		function sumFibs(num) {
+
+		 let prevNum = 1;
+		 let nextNum = 0;
+		 let sum = 0;
+
+		 for(let i = 0; i < num; i++){
+		   let temp = prevNum + nextNum;
+		   prevNum = nextNum;
+		   nextNum = temp;
+		   console.log(temp)
+		  if (temp % 2 !== 0 && temp <= num){
+		    sum += temp;
+		  }
+		  console.log("sum: " + sum);
+		 }
+
+		  return sum;
+		}
+
+		sumFibs(75025);
+
+		//
+		 //start the prev num at 1
+		//  let prevNum = 1;
+		//start next num at 0;
+		//  let nextNum = 0;
+		//sum for all the return value 0
+		//  let sum = 0;
+		//loop through the num given 
+		//  for(let i = 0; i < 10; i++){
+		  //make a temp variable to hold the next number this way we can set the previous number correctly
+		//    let temp = prevNum + nextNum;
+		// set the previous num to what is the current next number
+		//    prevNum = nextNum;
+		//set next number to the new number which is in temp.
+		//    nextNum = temp;
+		//    console.log(temp)
+		// check if the current temp # meets the condtion of being odd and less then given integer. If it is add to sum.
+		//   if (temp % 2 !== 0 && temp <= 10){
+		//     sum += temp;
+		//   }
+		//   console.log("sum: " + sum);
+		//  }
+
+
