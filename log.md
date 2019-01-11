@@ -1207,3 +1207,94 @@ Something about any mathematical problem that has a math term associated with it
 		//  }
 
 
+### Day 91: Jan. 6, Sunday 2019
+**Today’s Progress**
+               Today I worked on another #FCC algorithm. I also finished up another section of the CSS Selectors section on #TeamTreeHouse.  
+**Thoughts**
+	I have less than 10 algorithms left on FCC advanced algorithm section to complete. And one section left of the “CSS selectors” course on Team Tree House. Today I did have to cheat a little, I used a formula for prime numbers that wasn’t mine. Mainly because I made an algorithm to find prime numbers, but it wasn’t efficient enough for the FCC question. So the FCC hints even said you may need to use someone else’s prime function. So instead of going crazy and killing myself I did just that. 
+
+
+### Day 92: Jan. 7, Monday 2019
+**Today’s Progress**
+               Today I finished the CSS Selectors course on #TeamTreeHouse.  
+**Thoughts**
+	I really wanted to work on one of the algorithms from Free Code Camp today. Though when I looked at the next question, my brain just was in another zone today. It wouldn’t let me processes it and do it. So I decided I would wait it out and attempt it tomorrow.  
+The deeper the math algorithms get, the harder it gets for me to do them. Thankfully I am almost done with this section. Honestly I understand a good puzzle and how to solve one, but I really don’t understand what it is asking me to do completely in these questions sometimes. 
+ My first task and usually the longest part to solve some of these problems is just deciphering what I am actually trying to accomplish. This is probably the saddest and loneliest part of coding to me, because I just don’t feel smart enough, when it comes to math problems.
+ Even if I study it nonstop I still have a hard time with them or maybe I don’t and it’s just a confidence thing, maybe its normal how I feel on them. I really wouldn’t know, what is typical, or how long people take on each question.
+ Either way I am sure I will figure it out, I just have to relearn some math before I can solve the question and be in a better headspace. Life besides coding is taking a little bit of a toll on me right now, more than I would like, and the number one thing in coding to me is just thinking slow and clear.   
+
+### Day 94: Jan. 9, Wednesday 2019
+**Today’s Progress**
+               Today I finished the #FCC Algorithm for the “Smallest Common Multiple” in a range challenge. It was really hard to figure out and is still confusing what is actually happening even after the fact I’ve solved it. 
+**Thoughts**
+	I feel really weird, I solved the problem knowing what needed to be done, but I am not actually sure what the code is doing. Mainly what doesn’t make sense, which I am still trying to understand, is the steps each number in range is taking to compare itself to one another. I am continuing to do research though to try and understand it better. I feel like a cheat completely right now. Being if it wasn’t for the help of others I wouldn’t have solved this problem. Solution below. 
+**Solution**
+
+		function smallestCommons(arr) {
+
+		  //Make array of arguments. I don't know why the argument split to array wasn't converting it into an array. So I had to use this method.
+		  let args = [arr[1],arr[0]];
+
+		//Sort the numbers from high to low. 
+		 args.sort(function (a,b){
+		   return b-a;
+		 })
+
+		//make a new array of numbers in range. 
+		let arrSorted = [];
+
+		for(let i = args[0]; i >= args[1]; i--){
+		  arrSorted.push(i);
+		}
+
+		 //reduced this part is throwing me off, I won’t try to explain it, until I can. 
+		  let test = arrSorted.reduce((x,y) => 
+		    leastCommonMultiple(x,y));
+
+		  return test;
+
+		}
+
+		smallestCommons([1,3]);
+
+		//euclidean function to find the GCD
+		function euclideanGCD(a,b){
+
+		if (a == 0 && b != 0){
+		  return b;
+		} 
+
+		if (b == 0 && a != 0){
+		  return a;
+		} 
+
+		if(a > b){
+		   return euclideanGCD(a % b, b);
+
+		} else{
+		    return euclideanGCD(b % a, a);
+		}
+
+		}
+
+		//function to find lcd. 
+		function leastCommonMultiple(a,b){
+		  return a*b/euclideanGCD(a,b);
+		}
+
+
+
+
+## Day 95: Jan. 10, Thursday 2019
+
+**Today’s Progress**
+
+               Today I finished the #FCC Algorithm for the “Drop It” and started the “Steam Roller” one. I am pretty sure I solved the steam roller one, which is just nested array into a single one. Though it didn’t like my answer, so I need to come up with a different solution.  I also started to go over #jQuery at #TeamTreeHouse.
+
+**Thoughts*
+
+            I think the steam roller question failed, because it just wanted more of an algorithm answer broken down and not just me using a function, that does all the work.
+
+
+
