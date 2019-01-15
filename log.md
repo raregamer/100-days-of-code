@@ -1297,4 +1297,191 @@ The deeper the math algorithms get, the harder it gets for me to do them. Thankf
             I think the steam roller question failed, because it just wanted more of an algorithm answer broken down and not just me using a function, that does all the work.
 
 
+## Day 96: Jan. 11, Friday 2019
+**Today’s Progress**
+               Today I finished the #FCC Algorithm for “Steam Roller” and moved along to “Binary Agents”. 
+**Thoughts*
+	Not much else to say. 
+
+**Solution**
+
+		function steamrollArray(arr) {
+		  // I'm a steamroller, baby
+
+		  function flatten(arr){
+		    arr.forEach(function (element){
+			 if(Array.isArray(element)){
+			   flatten(element);
+			 }else{
+			   newArr.push(element);
+			 }
+		    });
+		  }
+
+		 const stack = [...arr];
+		 const newArr = [];
+		 flatten(stack)
+		console.log(newArr);
+
+		 
+		return newArr;
+		}
+
+		console.log(steamrollArray([1, [2], [3, [[4]]]]));
+
+
+
+## Day 97: Jan. 12, Saturday 2019
+**Today’s Progress**
+               Today I finished the #FCC Algorithm for “Binary Agents” and “Everything Be True”. Only 3 more Algorithms left to do and 3 days left of #100DaysOfCode :). I also did some jQuery work on #TeamTreeHouse.
+**Thoughts*
+	I solved the “binary agent” algorithm twice, once when I was going through a bunch of thoughts on how to convert binary to decimal. Then once I looked at the solutions, I saw they used parseInt, I didn’t realize that parseInt can convert to base 2 or anything I wanted. So I went back and did it again. Below are those 2 solutions.  
+
+**Soultion**
+
+		function binaryAgent(str) {
+		  //split word
+		  let arrWords = str.split(' '); 
+		  //create array to hold letters
+		  let newLetterArr = [];
+
+		//convert binary to decimal 128 64 32 16 8 4 2 1
+		//loop through each binary code in the array
+		for(let i = 0; i < arrWords.length; i++){
+		  //holder of decimal total.
+		  let decimalTotal = 0;
+		//loop through each base number and give it a value
+		for(let j = 0; j < 8; j++){
+		//find base then if base has a 1 then add to decimal total.
+		    switch (j){
+			 case 0:
+			 if(arrWords[i][j] == 1){
+			   decimalTotal = 128;
+			 }
+			   break;
+			 case 1:
+			   if(arrWords[i][j] == 1){
+			   decimalTotal += 64;
+			   }
+			   break;
+			 case 2:
+			   if(arrWords[i][j] == 1){
+			   decimalTotal += 32;
+			   }
+			   break;
+			 case 3:
+			   if(arrWords[i][j] == 1){
+			   decimalTotal += 16;
+			   }
+			   break;
+			 case 4:
+			   if(arrWords[i][j] == 1){
+			   decimalTotal += 8;
+			   }
+			   break;
+			 case 5:
+			   if(arrWords[i][j] == 1){
+			   decimalTotal += 4;
+			   }
+			   break;
+			 case 6:
+				if(arrWords[i][j] == 1){
+			   decimalTotal += 2;
+				}
+			   break;
+			 case 7:
+			   if(arrWords[i][j] == 1){
+			   decimalTotal += 1;
+			   }
+			   break;
+			   
+		    }
+		  
+
+		}
+		//convert decimal number into string letter. Then join it to array. 
+		  newLetterArr.push(String.fromCharCode(decimalTotal));
+
+		}
+		//return sentence string joined together from array.
+		  return newLetterArr.join('');
+
+		}
+
+		binaryAgent("01000001 01110010 01100101 01101110 00100111 01110100 00100000 01100010 01101111 01101110 01100110 01101001 01110010 01100101 01110011 00100000 01100110 01110101 01101110 00100001 00111111");
+
+		Solution 2 for Binary Agent.
+
+		function binaryAgent(str) {
+		  //split binary letters.
+		  let splitBinary = str.split(" ");
+		  //use to hold letters.
+		  let wordsArr = [];
+		  
+		  //loop through binary array
+		  for(let i = 0; i < splitBinary.length; i++){
+		    //parse the binary numbers using base 2.
+		    var parsed = parseInt(splitBinary[i],2);
+		    console.log(parsed);
+		    // convert the char decimal number to a letter.
+		    wordsArr.push(String.fromCharCode(parsed));
+		  }
+		  //return joined letters
+		  return wordsArr.join('');
+		}
+
+		binaryAgent("01000001 01110010 01100101 01101110 00100111 01110100 00100000 01100010 01101111 01101110 01100110 01101001 01110010 01100101 01110011 00100000 01100110 01110101 01101110 00100001 00111111");
+
+
+
+
+
+		 
+
+## Day 98: Jan. 13, Sunday 2019
+**Today’s Progress**
+               Today I finished the #FreeCodeCamp Algorithm for “Arguments Optional”.
+**Thoughts**
+	Solution below for my algorithm. 
+**Solution**
+
+		function addTogether(x) {
+		//split arguments into array
+		var args = Array.prototype.slice.call(arguments);
+
+		// let x = args[0]; only if free code camp wants no paremeters. 
+
+		//check if the argument has a length of 2 and the 2nd argument is a number. Technically I know the test subject is only passing non numbers to the 2nd place. So I can also add another && to make 		sure argument 0 also is a number. 
+		if(args.length == 2 && typeof args[1] == "number"){
+		  return args[0] + args[1];
+
+		//if not 2 numbers check if it's only 1 argument then use a curried function to return function.
+		} else if(args.length == 1 && typeof args[0] == "number"){
+
+		    return function (y){
+			 //if 2nd argumen is a number return the sum. Else return undefined. 
+			 if(typeof y == "number"){
+			   return  x + y;
+			 }
+			 else return undefined;
+		  }
+		} else{
+		  return undefined;
+		}
+
+		}
+		  
+
+		addTogether(2)([3]);
+
+
+
+
+## Day 99: Jan. 14, Monday 2019
+**Today’s Progress**
+               Today I worked on jQuery on #TeamTreeHouse, I also finished another algorithm on #FreeCodeCamp. One more algorithm to go, then it’s on to the #FCC projects. 
+**Thoughts**
+	I am looking forward to finishing up the TeamTreeHouse.com jQuery section tomorrow, as well as finishing the Free Code Camp “Advanced Algorithms” section. 
+
+
 
