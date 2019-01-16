@@ -1484,4 +1484,46 @@ The deeper the math algorithms get, the harder it gets for me to do them. Thankf
 	I am looking forward to finishing up the TeamTreeHouse.com jQuery section tomorrow, as well as finishing the Free Code Camp “Advanced Algorithms” section. 
 
 
+## Day 100: Jan. 15, Tuesday 2019
+**Today’s Progress**
+               Today I finished the @freeCodeCamp “Advanced Algorithms” section. I also finished the #jQuery section @TeamTreeHouse. Lastly I finished #100DaysOfCode challenge. Now on to #301DaysOfCode, should I start at day 1 or day 101?  
+**Thoughts**
+	My solution for the final algorithm in “Advanced Algorithms” is below. I am glad to have completed a lot of things today including the #100DaysOfCode challenge. I am now going to continue on to the #301DaysOfCode. Should I start at day 1 or 101 tomorrow hmm…  
+
+**Solution**
+
+		function orbitalPeriod(arr) {
+
+		  //copy of argument array.
+		  var avgAltArray = arr;
+		  //variable to hold new orbital array. 
+		  var orbitalArray = [];
+		  //constants to hold Earth radius and Gravitational Mass
+		  var GM = 398600.4418;
+		  var earthRadius = 6367.4447;
+
+		//loop through avg altitude array
+		 for(let i = 0; i < avgAltArray.length; i++){
+		   //store temp avg alt
+		    var avgAlt1 = avgAltArray[i].avgAlt;
+		    //calculate orbital period
+		    var orbitalPeriod = Math.round(2 * Math.PI * Math.sqrt(Math.pow((earthRadius + avgAlt1)     ,3)/GM));
+		    console.log(orbitalPeriod); 
+		    //create and push new object to array.
+		    orbitalArray.push({name: avgAltArray[i].name,orbitalPeriod: orbitalPeriod});
+		 }
+		//return new array.
+		  return orbitalArray;
+		}
+
+		orbitalPeriod([{name : "sputnik", avgAlt : 35873.5553}]);
+
+		//189088360.92394165529999169208146
+
+		//2 * pi * (earthRadius + AvgAlt)Cubed3)/GM)sqrt
+		  // var orbitalPeriod = Math.round(2 * Math.PI * Math.sqrt(Math.pow((earthRadius + avgAlt1),3)/GM));
+
+
+
+
 
